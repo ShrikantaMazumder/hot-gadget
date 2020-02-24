@@ -1,0 +1,103 @@
+body{
+    background-color: #fff;
+}
+.container{
+    margin-bottom: 80px;
+}
+
+.see-all{
+    color: goldenrod;
+}
+
+/* slider section style */
+.slider-section{
+   
+}
+/* slider section style end */
+
+/* buy button end */
+.buy-btn{
+    background-color: #000000;
+    color: #ffffff;
+    border: none;
+    padding: 9px 25px;
+    border-radius: 8px;
+}
+/* buy button */
+
+.carousel-indicators{
+   margin-bottom: -3%;
+}
+.carousel-indicators li{
+    width: 20px;
+    height: 8px;
+    border: none;
+    border-radius: 4px;
+    background-color: #CECECE;
+}
+.carousel-indicators li.active{
+    width: 35px;
+    height: 10px;
+    border-radius: 8px;
+    background-image: linear-gradient(145deg,#f1c40f,#e67e22);
+}
+
+/* card style */
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px grey;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+.card-footer{
+    border: none;
+    background-color: #ffffff;
+}
+/* card style end */
+
+.smartphone img{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+.laptop img{
+    width: 70%;
+    margin: 0 auto;
+    
+}
+
+/* categories */
+.cat-bag, .cat-perfume, .cat-shoe{
+    box-shadow: 5px 5px 10px grey;
+    text-align: center;
+}
+.cat-bag{
+    border-radius: 0px 0px 0px 12px;
+}
+.cat-perfume{
+    border-radius: 0px 0px 12px 0px;
+}
+.cat-shoe{
+    border-radius: 0px 0px 12px 0px;
+}
+.underline{
+    width: 125px;
+    height: 5px;
+    margin: 0 auto;
+    display: block;
+    background-image: linear-gradient(#ffdd59,#ffa801);
+    border-radius: 5px;
+}
+/* subscribe section style */
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+/* subscribe section end */
+.orange-bg{
+    background-color: #fceae8;
+    border-radius: 8px;
+}
